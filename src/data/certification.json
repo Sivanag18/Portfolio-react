@@ -1,0 +1,23 @@
+[
+    {
+        "course": "Developing Front-End App with React",
+        "organisation": "Coursera",
+        "startDate": "Feb, 2024",
+        "endDate": "Mar, 2024",
+        "imageSrc": "history/react_page-0001.jpg"
+    },
+    {
+        "course": "Java and Data Structures & Algorithm Program",
+        "organisation": "CipherSchools",
+        "startDate": "Jun, 2023",
+        "endDate": "Jul, 2023",
+        "imageSrc": "history/Java & DSA_page-0001.jpg"
+    },
+    {
+        "course": "Create the User Interface in Android Studio",
+        "organisation": "Coursera",
+        "startDate": "Aug, 2023",
+        "endDate": "Sep, 2023",
+        "imageSrc": "history/android_page-0001.jpg"
+    }
+]

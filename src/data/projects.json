@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Courier Management System",
+      "imageSrc": "projects/cms.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Java", "JavaSwing", "JDBC"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "File Sharing ",
+      "imageSrc": "projects/filesharing.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Postgress"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Quiz Application",
+      "imageSrc": "projects/quiz.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Andriod", "Java", "xml"],
+      "source": "https://www.github.com"
+    }
+  ]
